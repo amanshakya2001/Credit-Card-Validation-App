@@ -1,4 +1,4 @@
-package com.example.dockerimage
+package com.example.creditcardapp
 
 import io.flutter.embedding.android.FlutterActivity
 
